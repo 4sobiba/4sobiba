@@ -35,6 +35,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/4sobiba/4sobiba/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
